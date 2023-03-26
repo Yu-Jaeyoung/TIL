@@ -28,19 +28,19 @@
 - 두 프로세스들이 동일한 프로그램에 관련되어 있어도 이들은 두 개의 분리된 실행 순서를 가짐
 <br>
 
-<img width="700" alt="image" src="Process/Untitled.png">
+<img width="700" alt="image" src="Process-img/Untitled.png">
 <br>
-<img width="700" alt="image" src="Process/Untitled 1.png">
+<img width="700" alt="image" src="Process-img/Untitled 1.png">
 
 <br>
 <br>
 
 ## **프로세스 상태**
 
-<img width="700" alt="image" src="Process/Untitled 2.png">
+<img width="700" alt="image" src="Process-img/Untitled 2.png">
 
 
-<img width="700" alt="image" src="Process/Untitled 3.png">
+<img width="700" alt="image" src="Process-img/Untitled 3.png">
 
 <br>
 
@@ -49,7 +49,7 @@
 
 ## 프로세스 제어 블록
 
-<img width="700" alt="image" src="Process/Untitled 4.png">
+<img width="700" alt="image" src="Process-img/Untitled 4.png">
 <br>
 <br>
 
@@ -63,9 +63,9 @@
 
 ## 스케줄링 큐와 스케줄링
 
-<img width="700" alt="image" src="Process/Untitled 5.png">
+<img width="700" alt="image" src="Process-img/Untitled 5.png">
 
-<img width="700" alt="image" src="Process/Untitled 6.png">
+<img width="700" alt="image" src="Process-img/Untitled 6.png">
 
 <br>
 <br>
@@ -83,7 +83,7 @@
 - 문맥 교환 시간은 순수한 오버헤드 / 순수하게 CPU 효율로 봤을때 하지 않아도 되는 일을 하는 것
     - 문맥 교환이 진행될 동안 시스템은 아무런 유용한 일을 하지 못함
 
-<img width="700" alt="image" src="Process/Untitled 7.png">
+<img width="700" alt="image" src="Process-img/Untitled 7.png">
 <br>
 <br>
 
@@ -101,7 +101,7 @@
 
 - 태초의 프로세스는 커널이 임의로 만듬
 
-<img width="700" alt="image" src="Process/Untitled 8.png">
+<img width="700" alt="image" src="Process-img/Untitled 8.png">
 
 - 프로세스가 자식 프로세스를 생성할 때, **자식 프로세스는 자신의 임무 달성을 위해 자원이 필요**
 
@@ -120,7 +120,7 @@
     - 자식 프로세스는 부모와 똑같은 프로그램과 데이터를 가짐
 - **자식 프로세스가 자신에게 적재될 새로운 프로그램을 가짐 / exec**
 
-<img width="700" alt="image" src="Process/Untitled 9.png">
+<img width="700" alt="image" src="Process-img/Untitled 9.png">
 <br>
 <br>
 
@@ -147,10 +147,10 @@
 - **Zombie 프로세스 : 종료되었지만 부모 프로세스가 아직 wait() 호출을 하지 않은 프로세스**
 - **Orphan 프로세스 : 부모 프로세스가 wiat()를 호출하는 대신 종료하는 경우**
 
-<img width="700" alt="image" src="Process/Untitled 10.png">
+<img width="700" alt="image" src="Process-img/Untitled 10.png">
 <br>
 <br>
-<img width="700" alt="image" src="Process/Untitled 11.png">
+<img width="700" alt="image" src="Process-img/Untitled 11.png">
 <br>
 <br>
 
@@ -182,7 +182,7 @@
 - 메시지 전달
 - 공유 메모리
 
-<img width="700" alt="image" src="Process/Untitled 12.png">
+<img width="700" alt="image" src="Process-img/Untitled 12.png">
 <br>
 <br>
 
@@ -192,7 +192,7 @@
 
 - **생산자-소비자 프로세스** 예
 
-<img width="350" alt="image" src="Process/Untitled 13.png">
+<img width="350" alt="image" src="Process-img/Untitled 13.png">
 <br>
 <br>
 
@@ -200,11 +200,11 @@
 
   : 병행하여 실행되도록 하려면 → 생산자가 정보를 채워 넣고, 소비자가 비울 수 있는 버퍼들의 저장소 제공
 
-<img width="700" alt="image" src="Process/Untitled 14.png">
+<img width="700" alt="image" src="Process-img/Untitled 14.png">
 <br>
 <br>
 
-<img width="700" alt="image" src="Process/Untitled 15.png">
+<img width="700" alt="image" src="Process-img/Untitled 15.png">
 <br>
 <br>
 
