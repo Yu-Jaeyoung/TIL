@@ -14,3 +14,10 @@ This Repository is for writing what I've learned today.
 
 - [Process](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Process.md)
 - [Thread](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Thread.md)
+
+<br>
+<br>
+
+## Algorithm
+
+- [Basic-Algorithm](https://github.com/Yu-Jaeyoung/TIL/blob/main/algorithm/Basic-algorithm.md)
