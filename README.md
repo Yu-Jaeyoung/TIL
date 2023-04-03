@@ -21,3 +21,4 @@ This Repository is for writing what I've learned today.
 ## Algorithm
 
 - [Basic-Algorithm](https://github.com/Yu-Jaeyoung/TIL/blob/main/algorithm/Basic-algorithm.md)
+- [Basic-sorting](https://github.com/Yu-Jaeyoung/TIL/blob/main/algorithm/Basic-sorting.md)
