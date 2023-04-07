@@ -32,7 +32,7 @@
     3. 맨 오른쪽 원소를 제외
 2. 하나의 원소만 남을 때까지 위의 루프를 반복
 
-<img width="450" alt="image" src="Basic-sorting-img/Untitled.png">
+<img width="450" alt="image" src="media/Basic-sorting-img/Untitled.png">
 <br>
 <br>
 
@@ -65,7 +65,7 @@ void selectionSort(int data[], int length) { // 데이터 개수를 받은 lengt
 
 - 다만, 제일 큰 원소를 오른쪽으로 옮기는 방법이 다름
 
-<img width="450" alt="image" src="Basic-sorting-img/Untitled 1.png">
+<img width="450" alt="image" src="media/Basic-sorting-img/Untitled 1.png">
 <br>
 <br>
 
@@ -106,7 +106,7 @@ void bubbleSort(int data[], int length) {
     - i개짜리 배열을 정렬 (추가된 원소를 어디에 삽입할 것인지 결정)
 2. N개까지 상기 loop를 반복
 
-<img width="450" alt="image" src="Basic-sorting-img/Untitled 2.png">
+<img width="450" alt="image" src="media/Basic-sorting-img/Untitled 2.png">
 <br>
 <br>
 

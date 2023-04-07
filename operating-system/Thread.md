@@ -6,7 +6,7 @@
 
 - 스레드가 없을 때 기존 방법
 
-<img width="600" alt="image" src="Thread-img/Untitled.png">
+<img width="600" alt="image" src="media/Thread-img/Untitled.png">
 <br>
 <br>
 
@@ -17,7 +17,7 @@
 - 같은  프로세스에 속한 다른 스레드와 코드, 데이터 섹션, 열린 파일이나 신호 등의 운영체제 자원 공유
     - 싱글 스레드 프로세스와 멀티 스레드 프로세스 도식화
     
-<img width="700" alt="image" src="Thread-img/Untitled 1.png">
+<img width="700" alt="image" src="media/Thread-img/Untitled 1.png">
 <br>
 <br>
 
@@ -41,7 +41,7 @@
     - 사용자의 키 입력에 응답하는 스레드
     - 백그라운드에서 맞춤법과 문법 검사를 수헹하는 스레드
 
-<img width="200" alt="image" src="Thread-img/Untitled 2.png">
+<img width="200" alt="image" src="media/Thread-img/Untitled 2.png">
 <br>
 <br>
 
@@ -50,7 +50,7 @@
 
 - 웹 서버(Web server)
 
-<img width="700" alt="image" src="Thread-img/Untitled 3.png">
+<img width="700" alt="image" src="media/Thread-img/Untitled 3.png">
 <br>
 <br>
 
@@ -74,7 +74,7 @@
     - 하나의 코어는 한 번에 하나의 스레드만 실행할 수 있기 때문에 병행성은 단순히 스레드의 실행이
     시간에 따라 교대로 실행된다는 것을 의미
     
-<img width="450" alt="image" src="Thread-img/Untitled 4.png">
+<img width="450" alt="image" src="media/Thread-img/Untitled 4.png">
 <br>
 <br>
 
@@ -83,7 +83,7 @@
     - 여러 코어를 가진 시스템에서 병행성은 개별 스레드를 각 코어에 배정할 수 있기 때문에 병행성은
     일부 스레드들이 병렬적으로 실행될 수 있음
     
-<img width="450" alt="image" src="Thread-img/Untitled 5.png">
+<img width="450" alt="image" src="media/Thread-img/Untitled 5.png">
 <br>
 <br>
 
@@ -112,7 +112,7 @@
     다중 스레드가 다중 코어 시스템에서 병렬로 실행될 수 없음**
     
 
-<img width="500" alt="image" src="Thread-img/Untitled 6.png">
+<img width="500" alt="image" src="media/Thread-img/Untitled 6.png">
 <br>
 <br>
 
@@ -126,7 +126,7 @@
 - 사용자 수준 스레드를 생성할 때, 그에 따른 커널 스레드를 생성해야함
     - **많은 수의 커널 스레드가 시스템 성능에 부담을 줄 수 있음**
 
-<img width="500" alt="image" src="Thread-img/Untitled 7.png">
+<img width="500" alt="image" src="media/Thread-img/Untitled 7.png">
 <br>
 <br>
 
@@ -139,7 +139,7 @@
 - 개발자는 필요한 만큼의 사용자 수준 스레드를 생성할 수 있음
 - 상응하는 커널 스레드가 다중 처리기에서 병렬로 실행될 수 있음
 
-<img width="500" alt="image" src="Thread-img/Untitled 8.png">
+<img width="500" alt="image" src="media/Thread-img/Untitled 8.png">
 <br>
 <br>
 
@@ -150,7 +150,7 @@
 
 - 하나의 사용자 스레드가 하나의 커널 스레드에 종속되도록 허용
 
-<img width="500" alt="image" src="Thread-img/Untitled 9.png">
+<img width="500" alt="image" src="media/Thread-img/Untitled 9.png">
 <br>
 <br>
 
@@ -159,7 +159,7 @@
 
 ## Pthreads
 
-<img width="700" alt="image" src="Thread-img/Untitled 10.png">
+<img width="700" alt="image" src="media/Thread-img/Untitled 10.png">
 <br>
 <br>
 

@@ -14,7 +14,7 @@
 
 # 분할 정복(Divide-and-Conquer) 알고리즘
 
-<img width="600" alt="image" src="Basic-algorithm-img/Untitled.png">
+<img width="600" alt="image" src="media/Basic-algorithm-img/Untitled.png">
 <br>
 <br>
 
@@ -26,18 +26,18 @@
 
 - 최선의 경우 : 한 번에 찾음!
 
-$$
-O(n)
-$$
+    $O(n)$
 
+
+<br>
 ### 크기가 n인 입력을 2개로 분할하고, 각각 분할된 부분 문제의 크기가 n/2이라 하면,
 
-<img width="450" alt="image" src="Basic-algorithm-img/Untitled 1.png">
+<img width="450" alt="image" src="media/Basic-algorithm-img/Untitled 1.png">
 <br>
 <br>
 ### 크기가 n인 입력을 3개로 분할하고, 각각 분할된 부분 문제의 크기가 n/3이라 하면,
 
-<img width="450" alt="image" src="Basic-algorithm-img/Untitled 2.png">
+<img width="450" alt="image" src="media/Basic-algorithm-img/Untitled 2.png">
 <br>
 <br>
 
