@@ -20,6 +20,7 @@ This Repository is for writing what I've learned today.
 ## Data Communication
 
 - [Digital-transmission](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Digital-transmission.md)
+- [Analog-transmission](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Analog-transmission.md)
 <br>
 
 ## Operating System
