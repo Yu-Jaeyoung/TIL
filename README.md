@@ -28,3 +28,4 @@ This Repository is for writing what I've learned today.
 - [Process](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Process.md)
 - [Thread](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Thread.md)
 - [CPU-scheduling](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/CPU-scheduling.md)
+- [Synchronization-tools](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Synchronization-tools.md)
