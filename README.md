@@ -34,3 +34,4 @@ This Repository is for writing what I've learned today.
 - [Thread](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Thread.md)
 - [CPU-scheduling](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/CPU-scheduling.md)
 - [Synchronization-tools](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Synchronization-tools.md)
+- [Main-memory](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Main-memory.md)
