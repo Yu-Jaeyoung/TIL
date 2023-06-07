@@ -25,6 +25,7 @@ This Repository is for writing what I've learned today.
 - [Bandwidth-utilization](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Bandwidth-utilization.md)
 - [Switching](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Switching.md)
 - [Data-link-layer](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Data-link-layer.md)
+- [Error-detection-correction](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Error-detection-correction.md)
 <br>
 
 ## Operating System
