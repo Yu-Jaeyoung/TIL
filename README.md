@@ -24,6 +24,7 @@ TIL ( Today I Learned )
 ## Network
 
 - [Ch 11. Duplication](https://jaeyoung-yu.notion.site/Ch-11-04518d85a9334fa29249c9c4acbede58?pvs=4)    [이중화 기술]
+- [Ch 12. Load Balancer](https://jaeyoung-yu.notion.site/Ch-12-f0bc5f1008eb4aa4b4cd468e22509a8c?pvs=4)  [부하 분산]
 
 ## Operating System
 
