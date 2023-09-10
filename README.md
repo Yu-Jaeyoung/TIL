@@ -24,6 +24,7 @@ TIL ( Today I Learned )
 ## JavaScript
 
 - [Ch 1. Programming](https://jaeyoung-yu.notion.site/Chap-1-c2eb2db163ee42d9af2ea95d1d828b64?pvs=4)    [프로그래밍]
+- [Ch 2. JavaScript?](https://jaeyoung-yu.notion.site/Chap-2-3d47fe2f08414c7aa83be44b14992800?pvs=4)    [자바스크립트란?]
 
 ## Network
 
