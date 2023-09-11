@@ -25,6 +25,7 @@ TIL ( Today I Learned )
 
 - [Ch 1. Programming](https://jaeyoung-yu.notion.site/Chap-1-c2eb2db163ee42d9af2ea95d1d828b64?pvs=4)    [프로그래밍]
 - [Ch 2. JavaScript?](https://jaeyoung-yu.notion.site/Chap-2-3d47fe2f08414c7aa83be44b14992800?pvs=4)    [자바스크립트란?]
+- [Ch 3. JavaScript Development Environment and Execution](https://jaeyoung-yu.notion.site/Chap-3-0e80c903eac9433081757c7c373b4d87?pvs=4)   [자바스크립트 개발 환경과 실행 방법]
 
 ## Network
 
