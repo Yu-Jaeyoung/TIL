@@ -32,6 +32,10 @@ TIL ( Today I Learned )
 - [Ch 11. Duplication](https://jaeyoung-yu.notion.site/Ch-11-04518d85a9334fa29249c9c4acbede58?pvs=4)    [이중화 기술]
 - [Ch 12. Load Balancer](https://jaeyoung-yu.notion.site/Ch-12-f0bc5f1008eb4aa4b4cd468e22509a8c?pvs=4)  [부하 분산]
 
+## Mobile Communication Protocols
+
+- [Internet of Things Communication Protocol](https://jaeyoung-yu.notion.site/3a15a2f9719947b8a43f77621cfb2638?pvs=4)   [사물 인터넷 통신 프로토콜]
+
 ## Operating System
 
 - [Operating-system-services](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Operating-system-services.md)
