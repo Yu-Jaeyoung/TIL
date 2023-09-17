@@ -36,6 +36,7 @@ TIL ( Today I Learned )
 ## Mobile Communication Protocols
 
 - [Internet of Things Communication Protocol](https://jaeyoung-yu.notion.site/3a15a2f9719947b8a43f77621cfb2638?pvs=4)   [사물 인터넷 통신 프로토콜]
+- [Wireless Sensor Network](https://jaeyoung-yu.notion.site/29d4b98ab16b440f9b44950736a8a35b?pvs=4)   [무선 센서 네트워크]
 
 ## Operating System
 
