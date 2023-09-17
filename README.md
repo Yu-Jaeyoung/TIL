@@ -12,6 +12,10 @@ TIL ( Today I Learned )
 - [Advanced-sorting](https://github.com/Yu-Jaeyoung/TIL/blob/main/algorithm/Advanced-sorting.md)
 - [Special-sorting](https://github.com/Yu-Jaeyoung/TIL/blob/main/algorithm/Special-sorting.md)
 
+## Database
+
+- [Fundamental Concepts of Databases](https://jaeyoung-yu.notion.site/09f67e5a68354041b79988b1bb683127?pvs=4)   [데이터베이스 기본 개념]
+
 ## Data Communications and Networking
 
 - [Digital-transmission](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Digital-transmission.md)
@@ -58,6 +62,7 @@ TIL ( Today I Learned )
 | Type | Title | Author | Publisher | Cover Image |
 |---|---|---|---|---|
 | Algorithm | 쉽게 배우는 알고리즘: 관계 중심의 사고법 | 문병로 | 한빛 아카데미 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/38471e6e-6286-4e8d-8046-0e1f1224f979" width="150"> |
+| Database | 데이터베이스 개론 | 김연희 | 한빛 아카데미 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/5af682ec-7c52-484c-84f0-573234163bbf" width="150"> |
 | Data Communication & Networking | 데이터통신과 네트워킹 5판 | 이재광 등 | McGraw-Hill | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/e4e1beeb-276f-491a-a27a-810ecf43d563" width="150">   |
 | JavaScript | 모던 자바스크립트 Deep Dive | 이웅모 | 위키북스 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/85297e48-510d-4c48-9c52-e68289272740" width="150"> |
 | Network | IT 엔지니어를 위한 네트워크 입문 | 고재성 등 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/aba8b950-4492-41ce-970b-6a195ba90b22" width="150"> |
