@@ -12,7 +12,7 @@ TIL ( Today I Learned )
 - [Advanced-sorting](https://github.com/Yu-Jaeyoung/TIL/blob/main/algorithm/Advanced-sorting.md)
 - [Special-sorting](https://github.com/Yu-Jaeyoung/TIL/blob/main/algorithm/Special-sorting.md)
 
-## Data Communication
+## Data Communications and Networking
 
 - [Digital-transmission](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Digital-transmission.md)
 - [Analog-transmission](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Analog-transmission.md)
@@ -20,6 +20,7 @@ TIL ( Today I Learned )
 - [Switching](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Switching.md)
 - [Data-link-layer](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Data-link-layer.md)
 - [Error-detection-correction](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Error-detection-correction.md)
+- [Introduction to Network Layer](https://jaeyoung-yu.notion.site/933e0706e0f54291a5b1e59e2a482e64?pvs=4) [네트워크 계층의 소개]
 
 ## JavaScript
 
@@ -57,7 +58,7 @@ TIL ( Today I Learned )
 | Type | Title | Author | Publisher | Cover Image |
 |---|---|---|---|---|
 | Algorithm | 쉽게 배우는 알고리즘: 관계 중심의 사고법 | 문병로 | 한빛 아카데미 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/38471e6e-6286-4e8d-8046-0e1f1224f979" width="150"> |
-| Data Communication | 데이터통신과 네트워킹 5판 | 이재광 등 | McGraw-Hill | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/e4e1beeb-276f-491a-a27a-810ecf43d563" width="150">   |
+| Data Communication & Networking | 데이터통신과 네트워킹 5판 | 이재광 등 | McGraw-Hill | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/e4e1beeb-276f-491a-a27a-810ecf43d563" width="150">   |
 | JavaScript | 모던 자바스크립트 Deep Dive | 이웅모 | 위키북스 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/85297e48-510d-4c48-9c52-e68289272740" width="150"> |
 | Network | IT 엔지니어를 위한 네트워크 입문 | 고재성 등 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/aba8b950-4492-41ce-970b-6a195ba90b22" width="150"> |
 | Operation | 운영체제 10판 | 박민규 | 퍼스트북 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/dec34e6e-affc-4182-a6fb-48e1cf923cb3" width="150">|
