@@ -15,6 +15,7 @@ TIL ( Today I Learned )
 ## Database
 
 - [Fundamental Concepts of Databases](https://jaeyoung-yu.notion.site/09f67e5a68354041b79988b1bb683127?pvs=4)   [데이터베이스 기본 개념]
+- [Database Management System](https://jaeyoung-yu.notion.site/3e4384ceac9d4b40b85c00a1b4b393d6?pvs=4)  [데이터베이스 관리 시스템]
 
 ## Data Communications and Networking
 
