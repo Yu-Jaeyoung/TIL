@@ -27,6 +27,7 @@ TIL ( Today I Learned )
 - [Data-link-layer](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Data-link-layer.md)
 - [Error-detection-correction](https://github.com/Yu-Jaeyoung/TIL/blob/main/data-communication/Error-detection-correction.md)
 - [Introduction to Network Layer](https://jaeyoung-yu.notion.site/933e0706e0f54291a5b1e59e2a482e64?pvs=4) [네트워크 계층의 소개]
+- [Network Layer Protocols](https://jaeyoung-yu.notion.site/543ec9e0a4ef43af8a45a6c90e9a08a1?pvs=4)    [네트워크 계층 프로토콜]
 
 ## JavaScript
 
