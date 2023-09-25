@@ -37,6 +37,7 @@ TIL ( Today I Learned )
 - [Ch 3. JavaScript Development Environment and Execution](https://jaeyoung-yu.notion.site/Chap-3-0e80c903eac9433081757c7c373b4d87?pvs=4)   [자바스크립트 개발 환경과 실행 방법]
 - [Ch 4. Variable](https://jaeyoung-yu.notion.site/Chap-4-fd3baad91d2341b9aa6d65db5cadf4fc?pvs=4)   [변수]
 - [Ch 5. Expression & Statement](https://jaeyoung-yu.notion.site/Chap-5-f640c434da414e0cb8d30ba1c1b4adb1?pvs=4) [표현식과 문]
+- [Ch 6. Data Types](https://jaeyoung-yu.notion.site/Chap-6-b0153df5e48a4a908e7e55c41f772c65?pvs=4)  [데이터 타입]
 
 ## Network
 
