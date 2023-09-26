@@ -38,6 +38,7 @@ TIL ( Today I Learned )
 - [Ch 4. Variable](https://jaeyoung-yu.notion.site/Chap-4-fd3baad91d2341b9aa6d65db5cadf4fc?pvs=4)   [변수]
 - [Ch 5. Expression & Statement](https://jaeyoung-yu.notion.site/Chap-5-f640c434da414e0cb8d30ba1c1b4adb1?pvs=4) [표현식과 문]
 - [Ch 6. Data Types](https://jaeyoung-yu.notion.site/Chap-6-b0153df5e48a4a908e7e55c41f772c65?pvs=4)  [데이터 타입]
+- [Ch 7. Operator](https://jaeyoung-yu.notion.site/Chap-7-8cf9e0be5f534931b3e705f2ba3e14a1?pvs=4)   [연산자]
 
 ## Network
 
