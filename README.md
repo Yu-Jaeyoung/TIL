@@ -36,10 +36,11 @@ TIL ( Today I Learned )
 - [Ch 2. JavaScript?](https://jaeyoung-yu.notion.site/Chap-2-3d47fe2f08414c7aa83be44b14992800?pvs=4)    [자바스크립트란?]
 - [Ch 3. JavaScript Development Environment and Execution](https://jaeyoung-yu.notion.site/Chap-3-0e80c903eac9433081757c7c373b4d87?pvs=4)   [자바스크립트 개발 환경과 실행 방법]
 - [Ch 4. Variable](https://jaeyoung-yu.notion.site/Chap-4-fd3baad91d2341b9aa6d65db5cadf4fc?pvs=4)   [변수]
-- [Ch 5. Expression & Statement](https://jaeyoung-yu.notion.site/Chap-5-f640c434da414e0cb8d30ba1c1b4adb1?pvs=4) [표현식과 문]
+- [Ch 5. Expression and Statement](https://jaeyoung-yu.notion.site/Chap-5-f640c434da414e0cb8d30ba1c1b4adb1?pvs=4) [표현식과 문]
 - [Ch 6. Data Types](https://jaeyoung-yu.notion.site/Chap-6-b0153df5e48a4a908e7e55c41f772c65?pvs=4)  [데이터 타입]
 - [Ch 7. Operator](https://jaeyoung-yu.notion.site/Chap-7-8cf9e0be5f534931b3e705f2ba3e14a1?pvs=4)   [연산자]
 - [Ch 8. Control Flow Statement](https://jaeyoung-yu.notion.site/Chap-8-afd067984dfb41aaa4774a829f6bc412?pvs=4) [제어문]
+- [Ch 9. Type Casting and Short-Circuit Evaluation](https://jaeyoung-yu.notion.site/Chap-9-abf786293e474742ae2a8394fa3a6526?pvs=4)  [타입 변환과 단축 평가]
 
 ## Network
 
