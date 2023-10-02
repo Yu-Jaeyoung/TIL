@@ -41,6 +41,7 @@ TIL ( Today I Learned )
 - [Ch 7. Operator](https://jaeyoung-yu.notion.site/Chap-7-8cf9e0be5f534931b3e705f2ba3e14a1?pvs=4)   [연산자]
 - [Ch 8. Control Flow Statement](https://jaeyoung-yu.notion.site/Chap-8-afd067984dfb41aaa4774a829f6bc412?pvs=4) [제어문]
 - [Ch 9. Type Casting and Short-Circuit Evaluation](https://jaeyoung-yu.notion.site/Chap-9-abf786293e474742ae2a8394fa3a6526?pvs=4)  [타입 변환과 단축 평가]
+- [Ch 10. Object Literal](https://jaeyoung-yu.notion.site/Chap-10-05c614afaf34425b94a0bdf75d81bd4a?pvs=4)  [객체 리터럴]
 
 ## Network
 
