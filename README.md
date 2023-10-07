@@ -44,6 +44,7 @@ TIL ( Today I Learned )
 - [Ch 9. Type Casting and Short-Circuit Evaluation](https://jaeyoung-yu.notion.site/Chap-9-abf786293e474742ae2a8394fa3a6526?pvs=4)  [타입 변환과 단축 평가]
 - [Ch 10. Object Literal](https://jaeyoung-yu.notion.site/Chap-10-05c614afaf34425b94a0bdf75d81bd4a?pvs=4)  [객체 리터럴]
 - [Ch 11. Comparing Primitive Value and Objects](https://jaeyoung-yu.notion.site/Chap-11-98c14afdf6fa4618a4a24a38e26907ea?pvs=4)    [원시 값과 객체의 비교]
+- [Ch 12. Function](https://jaeyoung-yu.notion.site/Chap-12-e81dc53788ab4f6c8ccc5857141ae02b?pvs=4) [함수]
 
 ## Network
 
