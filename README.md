@@ -18,6 +18,7 @@ TIL ( Today I Learned )
 - [Database Management System](https://jaeyoung-yu.notion.site/3e4384ceac9d4b40b85c00a1b4b393d6?pvs=4)  [데이터베이스 관리 시스템]
 - [Database System](https://jaeyoung-yu.notion.site/ce2fbdaa302e4ec3a4e6601944b58aa6?pvs=4)  [데이터베이스 시스템]
 - [Data Modeling](https://jaeyoung-yu.notion.site/a8a4c17c7f2343239db8d7f66afd6a0b?pvs=4)   [데이터 모델링]
+- [Relation Database Model](https://jaeyoung-yu.notion.site/7b12ed29c11f4c6a823be880ad461433?pvs=4)   [관계 데이터 모델]
 
 ## Data Communications and Networking
 
