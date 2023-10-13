@@ -47,6 +47,7 @@ TIL ( Today I Learned )
 - [Ch 10. Object Literal](https://jaeyoung-yu.notion.site/Chap-10-05c614afaf34425b94a0bdf75d81bd4a?pvs=4)  [객체 리터럴]
 - [Ch 11. Comparing Primitive Value and Objects](https://jaeyoung-yu.notion.site/Chap-11-98c14afdf6fa4618a4a24a38e26907ea?pvs=4)    [원시 값과 객체의 비교]
 - [Ch 12. Function](https://jaeyoung-yu.notion.site/Chap-12-e81dc53788ab4f6c8ccc5857141ae02b?pvs=4) [함수]
+- [Ch 13. Scope](https://jaeyoung-yu.notion.site/Chap-13-01127877b73f40b8bd3e3e2d941391c5?pvs=4) [스코프]
 
 ## Network
 
