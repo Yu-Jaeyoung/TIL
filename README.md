@@ -32,6 +32,7 @@ TIL ( Today I Learned )
 - [Introduction to Network Layer](https://jaeyoung-yu.notion.site/933e0706e0f54291a5b1e59e2a482e64?pvs=4) [네트워크 계층의 소개]
 - [Network Layer Protocols](https://jaeyoung-yu.notion.site/543ec9e0a4ef43af8a45a6c90e9a08a1?pvs=4) [네트워크 계층 프로토콜]
 - [Unicast Routing](https://jaeyoung-yu.notion.site/d5f0e286b4134c2d99bd7770e8103c2f?pvs=4) [유니캐스트 라우팅]
+- [Next Generation IP](https://jaeyoung-yu.notion.site/IP-2c1c85ae9d5f4458836a1b7efff87fe4?pvs=4)   [차세대 IP]
 
 ## JavaScript
 
