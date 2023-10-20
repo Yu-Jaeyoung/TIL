@@ -63,6 +63,7 @@ TIL ( Today I Learned )
 - [IEEE 802.15.4 PHY](https://jaeyoung-yu.notion.site/IEEE-802-15-4-PHY-fb4f71e5b7e040e8869d1c7896a85322?pvs=4)
 - [IEEE 802.15.4 MAC](https://jaeyoung-yu.notion.site/IEEE-802-15-4-MAC-645aa4f3121248a69f556d2c4c17b7a8?pvs=4)
 - [Zigbee Network](https://jaeyoung-yu.notion.site/Zigbee-Network-4152f081039546c7a61b4ba0d03a38db?pvs=4)   [Zigbee 네트워크]
+- [Bluetooth](https://jaeyoung-yu.notion.site/Bluetooth-d10d2b59d580488fbfd23a1abef4eadd?pvs=4) [블루투스]
 
 ## Operating System
 
