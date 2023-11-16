@@ -75,6 +75,10 @@ TIL ( Today I Learned )
 - [Synchronization-tools](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Synchronization-tools.md)
 - [Main-memory](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Main-memory.md)
 
+## TypeScript
+
+- [Ch 1. 타입스크립트 소개와 배경](https://jaeyoung-yu.notion.site/Ch-1-824efc0728214e3f9c0afcdb6be23475?pvs=4)
+
 
 <br>
 <br>
@@ -89,3 +93,4 @@ TIL ( Today I Learned )
 | JavaScript | 모던 자바스크립트 Deep Dive | 이웅모 | 위키북스 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/85297e48-510d-4c48-9c52-e68289272740" width="150"> |
 | Network | IT 엔지니어를 위한 네트워크 입문 | 고재성 등 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/aba8b950-4492-41ce-970b-6a195ba90b22" width="150"> |
 | Operation | 운영체제 10판 | 박민규 | 퍼스트북 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/dec34e6e-affc-4182-a6fb-48e1cf923cb3" width="150">|
+| TypeScript | 쉽게 시작하는 타입스크립트 | 장기효 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/731b80fc-94bf-4d77-b304-3e17a42fe7d6" width="150">|
