@@ -81,6 +81,7 @@ TIL ( Today I Learned )
 - [Ch 2. 타입스크립트 시작하기](https://jaeyoung-yu.notion.site/Ch-2-ee9a399c43144c60a4045a263b5edfbc?pvs=4)
 - [Ch 3. 타입스크립트 기초: 변수와 함수의 타입 정의](https://jaeyoung-yu.notion.site/Ch-3-7f6cc5cd3c924f1aa8b44203f43f52c1?pvs=4)
 - [Ch 4. 첫 번째 프로젝트: 할 일 관리 앱](https://jaeyoung-yu.notion.site/Ch-4-6860b9e531e74e9685b1ce8f2f2b5018?pvs=4)
+- [Ch 5. 인터페이스](https://jaeyoung-yu.notion.site/Ch-5-0240ff7e9b0b47e2a5541883a044e4f3?pvs=4)
 
 <br>
 <br>
