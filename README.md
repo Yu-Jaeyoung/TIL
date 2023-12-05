@@ -85,6 +85,7 @@ TIL ( Today I Learned )
 - [Ch 5. 인터페이스](https://jaeyoung-yu.notion.site/Ch-5-0240ff7e9b0b47e2a5541883a044e4f3?pvs=4)
 - [Ch 6. 연산자를 사용한 타입 정의](https://jaeyoung-yu.notion.site/Ch-6-aa11d140644348df902d56a6098f1088?pvs=4)
 - [Ch 7. 타입 별칭](https://jaeyoung-yu.notion.site/Ch-7-25c55a4c35434fcaa6bc46a23ab9260a?pvs=4)
+- [Ch 8. 이넘](https://jaeyoung-yu.notion.site/Ch-8-507c5cbd90ff41dd92d90fd97f021af7?pvs=4)
 
 <br>
 <br>
