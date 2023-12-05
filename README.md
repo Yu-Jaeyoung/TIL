@@ -84,6 +84,7 @@ TIL ( Today I Learned )
 - [Ch 4. 첫 번째 프로젝트: 할 일 관리 앱](https://jaeyoung-yu.notion.site/Ch-4-6860b9e531e74e9685b1ce8f2f2b5018?pvs=4)
 - [Ch 5. 인터페이스](https://jaeyoung-yu.notion.site/Ch-5-0240ff7e9b0b47e2a5541883a044e4f3?pvs=4)
 - [Ch 6. 연산자를 사용한 타입 정의](https://jaeyoung-yu.notion.site/Ch-6-aa11d140644348df902d56a6098f1088?pvs=4)
+- [Ch 7. 타입 별칭](https://jaeyoung-yu.notion.site/Ch-7-25c55a4c35434fcaa6bc46a23ab9260a?pvs=4)
 
 <br>
 <br>
