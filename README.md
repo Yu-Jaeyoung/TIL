@@ -20,6 +20,7 @@ TIL ( Today I Learned )
 - [Data Modeling](https://jaeyoung-yu.notion.site/a8a4c17c7f2343239db8d7f66afd6a0b?pvs=4)   [데이터 모델링]
 - [Relation Database Model](https://jaeyoung-yu.notion.site/7b12ed29c11f4c6a823be880ad461433?pvs=4)   [관계 데이터 모델]
 - [Relational Data Operation](https://jaeyoung-yu.notion.site/84a66ef036b1446c9bff200c8d91b6f7?pvs=4) [관계 데이터 연산]
+- [Normalization](https://jaeyoung-yu.notion.site/84bd757a3f304e4388f875ef63111030?pvs=4)  [정규화]
 
 ## Data Communications and Networking
 
