@@ -21,6 +21,7 @@ TIL ( Today I Learned )
 - [Relation Database Model](https://jaeyoung-yu.notion.site/7b12ed29c11f4c6a823be880ad461433?pvs=4)   [관계 데이터 모델]
 - [Relational Data Operation](https://jaeyoung-yu.notion.site/84a66ef036b1446c9bff200c8d91b6f7?pvs=4) [관계 데이터 연산]
 - [Normalization](https://jaeyoung-yu.notion.site/84bd757a3f304e4388f875ef63111030?pvs=4)  [정규화]
+- [Recovery and Concurrency Control](https://jaeyoung-yu.notion.site/5233599f4aed4b7493e6874eb64f35fe?pvs=4)  [회복과 병행 제어]
 
 ## Data Communications and Networking
 
