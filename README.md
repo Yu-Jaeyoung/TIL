@@ -75,6 +75,7 @@ TIL ( Today I Learned )
 - [Bluetooth](https://jaeyoung-yu.notion.site/Bluetooth-d10d2b59d580488fbfd23a1abef4eadd?pvs=4) [블루투스]
 - [IoT Application Protocol](https://jaeyoung-yu.notion.site/7a0053e8390d40d48dd667e96cb54e6c?pvs=4)  [사물 인터넷 응용 프로토콜]
 - [REST, CoAP](https://jaeyoung-yu.notion.site/REST-CoAP-de42d37ed34d483a82e99540487b00a8?pvs=4)  [REST, CoAP]
+- [MQTT](https://jaeyoung-yu.notion.site/MQTT-2ff49ef02fb042e0b9e387bbf20e9ccc?pvs=4) [MQTT]
 
 ## Operating System
 
