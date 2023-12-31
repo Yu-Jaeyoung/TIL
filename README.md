@@ -98,6 +98,7 @@ TIL ( Today I Learned )
 - [Ch 7. 타입 별칭](https://jaeyoung-yu.notion.site/Ch-7-25c55a4c35434fcaa6bc46a23ab9260a?pvs=4)
 - [Ch 8. 이넘](https://jaeyoung-yu.notion.site/Ch-8-507c5cbd90ff41dd92d90fd97f021af7?pvs=4)
 - [Ch 9. 클래스](https://jaeyoung-yu.notion.site/Ch-9-dea5c8dac3644722a218b828c349ecde?pvs=4)
+- [Ch 10. 제네릭](https://jaeyoung-yu.notion.site/Ch-10-36ca8a8fc5b0431e8ceaff648766a166?pvs=4)
 
 <br>
 <br>
