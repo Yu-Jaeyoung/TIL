@@ -99,6 +99,7 @@ TIL ( Today I Learned )
 - [Ch 8. 이넘](https://jaeyoung-yu.notion.site/Ch-8-507c5cbd90ff41dd92d90fd97f021af7?pvs=4)
 - [Ch 9. 클래스](https://jaeyoung-yu.notion.site/Ch-9-dea5c8dac3644722a218b828c349ecde?pvs=4)
 - [Ch 10. 제네릭](https://jaeyoung-yu.notion.site/Ch-10-36ca8a8fc5b0431e8ceaff648766a166?pvs=4)
+- [Ch 11. 두 번째 프로젝트: 전화번호부 앱](https://jaeyoung-yu.notion.site/Ch-11-3c95c4ec81484aa0a2b8d057653afbc2?pvs=4)
 
 <br>
 <br>
