@@ -101,6 +101,7 @@ TIL ( Today I Learned )
 - [Ch 10. 제네릭](https://jaeyoung-yu.notion.site/Ch-10-36ca8a8fc5b0431e8ceaff648766a166?pvs=4)
 - [Ch 11. 두 번째 프로젝트: 전화번호부 앱](https://jaeyoung-yu.notion.site/Ch-11-3c95c4ec81484aa0a2b8d057653afbc2?pvs=4)
 - [Ch 12. 타입 추론](https://jaeyoung-yu.notion.site/Ch-12-e27796223d9b4289a99f11d88ba75aae?pvs=4)
+- [Ch 13. 타입 단언](https://jaeyoung-yu.notion.site/Ch-13-9c47764e392f40f7b2a2c8ed6fc560f7?pvs=4)
 
 <br>
 <br>
