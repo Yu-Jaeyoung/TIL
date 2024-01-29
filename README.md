@@ -103,6 +103,8 @@ TIL ( Today I Learned )
 - [Ch 12. 타입 추론](https://jaeyoung-yu.notion.site/Ch-12-e27796223d9b4289a99f11d88ba75aae?pvs=4)
 - [Ch 13. 타입 단언](https://jaeyoung-yu.notion.site/Ch-13-9c47764e392f40f7b2a2c8ed6fc560f7?pvs=4)
 - [Ch 14. 타입 가드](https://jaeyoung-yu.notion.site/Ch-14-3d564d7f514a48809ed88d7aae8318e8?pvs=4)
+- [Ch 15. 타입 호환](https://jaeyoung-yu.notion.site/Ch-15-99bce327aa6549a399e45a169af48e88?pvs=4)
+
 
 <br>
 <br>
