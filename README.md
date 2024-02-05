@@ -105,6 +105,7 @@ TIL ( Today I Learned )
 - [Ch 14. 타입 가드](https://jaeyoung-yu.notion.site/Ch-14-3d564d7f514a48809ed88d7aae8318e8?pvs=4)
 - [Ch 15. 타입 호환](https://jaeyoung-yu.notion.site/Ch-15-99bce327aa6549a399e45a169af48e88?pvs=4)
 - [Ch 16. 타입 모듈](https://jaeyoung-yu.notion.site/Ch-16-6e16ee8514b44281be6c9034f2eb72fd?pvs=4)
+- [Ch 17. 유틸리티 타입](https://jaeyoung-yu.notion.site/Ch-17-71e9f879aa2f4cbcbee8bf66e2798730?pvs=4)
 
 <br>
 <br>
