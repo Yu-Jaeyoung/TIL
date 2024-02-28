@@ -87,6 +87,10 @@ TIL ( Today I Learned )
 - [Synchronization-tools](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Synchronization-tools.md)
 - [Main-memory](https://github.com/Yu-Jaeyoung/TIL/blob/main/operating-system/Main-memory.md)
 
+## SQL
+
+- [데이터베이스 언어 SQL](https://jaeyoung-yu.notion.site/OnBoarding-a6bdbff3c66a455a9233c5cee2c772cd?pvs=4)
+
 ## TypeScript
 
 - [Ch 1. 타입스크립트 소개와 배경](https://jaeyoung-yu.notion.site/Ch-1-824efc0728214e3f9c0afcdb6be23475?pvs=4)
@@ -117,8 +121,9 @@ TIL ( Today I Learned )
 |---|---|---|---|---|
 | Algorithm | 쉽게 배우는 알고리즘: 관계 중심의 사고법 | 문병로 | 한빛 아카데미 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/38471e6e-6286-4e8d-8046-0e1f1224f979" width="150"> |
 | Database | 데이터베이스 개론 | 김연희 | 한빛 아카데미 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/5af682ec-7c52-484c-84f0-573234163bbf" width="150"> |
-| Data Communication & Networking | 데이터통신과 네트워킹 5판 | 이재광 등 | McGraw-Hill | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/e4e1beeb-276f-491a-a27a-810ecf43d563" width="150">   |
+| Data Communication & Networking | 데이터통신과 네트워킹 5판 | 이재광 등 | McGraw-Hill | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/e4e1beeb-276f-491a-a27a-810ecf43d563" width="150"> |
 | JavaScript | 모던 자바스크립트 Deep Dive | 이웅모 | 위키북스 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/85297e48-510d-4c48-9c52-e68289272740" width="150"> |
 | Network | IT 엔지니어를 위한 네트워크 입문 | 고재성 등 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/aba8b950-4492-41ce-970b-6a195ba90b22" width="150"> |
-| Operation | 운영체제 10판 | 박민규 | 퍼스트북 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/dec34e6e-affc-4182-a6fb-48e1cf923cb3" width="150">|
-| TypeScript | 쉽게 시작하는 타입스크립트 | 장기효 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/731b80fc-94bf-4d77-b304-3e17a42fe7d6" width="150">|
+| Operation | 운영체제 10판 | 박민규 | 퍼스트북 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/dec34e6e-affc-4182-a6fb-48e1cf923cb3" width="150"> |
+| SQL | SQL Cookbook | 앤서니 몰리나로 등 | 한빛 미디어 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/69ba66e3-7b91-4b82-956b-c025a4aec12e" width="150"> |
+| TypeScript | 쉽게 시작하는 타입스크립트 | 장기효 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/731b80fc-94bf-4d77-b304-3e17a42fe7d6" width="150"> |
