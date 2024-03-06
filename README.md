@@ -92,6 +92,7 @@ TIL ( Today I Learned )
 - [데이터베이스 언어 SQL](https://jaeyoung-yu.notion.site/OnBoarding-a6bdbff3c66a455a9233c5cee2c772cd?pvs=4)
 - [레코드 검색](https://jaeyoung-yu.notion.site/Chapter-1-6eab8b2b37094096ab4b292da0a6f40c?pvs=4)
 - [쿼리 결과 정렬](https://jaeyoung-yu.notion.site/Chapter-2-a68480244240497b9176764891e9c7d8?pvs=4)
+- [다중 테이블 작업](https://jaeyoung-yu.notion.site/Chapter-3-d9546ea223a44106ab9d82ad9812e11f?pvs=4)
 
 ## TypeScript
 
