@@ -97,6 +97,7 @@ TIL ( Today I Learned )
 - [메타 데이터 쿼리](https://jaeyoung-yu.notion.site/Chapter-5-2e94659878114a7291d9ad9b7b9ba42f?pvs=4)
 - [문자열 작업](https://jaeyoung-yu.notion.site/Chapter-6-730c179eb5cc45f4a6f89d211391e390?pvs=4)
 - [숫자 작업](https://jaeyoung-yu.notion.site/Chapter-7-834e59f1daee4b8586c02275a0eca4c0?pvs=4)
+- [날짜 산술](https://jaeyoung-yu.notion.site/Chapter-8-fd6ab0645fe44dc7884db387e3618817?pvs=4)
 
 ## TypeScript
 
