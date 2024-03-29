@@ -98,6 +98,7 @@ TIL ( Today I Learned )
 - [문자열 작업](https://jaeyoung-yu.notion.site/Chapter-6-730c179eb5cc45f4a6f89d211391e390?pvs=4)
 - [숫자 작업](https://jaeyoung-yu.notion.site/Chapter-7-834e59f1daee4b8586c02275a0eca4c0?pvs=4)
 - [날짜 산술](https://jaeyoung-yu.notion.site/Chapter-8-fd6ab0645fe44dc7884db387e3618817?pvs=4)
+- [날짜 조작 기법](https://jaeyoung-yu.notion.site/Chapter-9-0cd39414eab14e68900829564a9f4581?pvs=4)
 
 ## TypeScript
 
