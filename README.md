@@ -100,6 +100,7 @@ TIL ( Today I Learned )
 - [날짜 산술](https://jaeyoung-yu.notion.site/Chapter-8-fd6ab0645fe44dc7884db387e3618817?pvs=4)
 - [날짜 조작 기법](https://jaeyoung-yu.notion.site/Chapter-9-0cd39414eab14e68900829564a9f4581?pvs=4)
 - [범위 관련 작업하기](https://jaeyoung-yu.notion.site/Chapter-10-dec99fb6659d42a2bf8597358a4216f1?pvs=4)
+- [고급 검색](https://jaeyoung-yu.notion.site/Chapter-11-8c238f887ff64cd88e22ee437f215d26?pvs=4)
 
 ## TypeScript
 
