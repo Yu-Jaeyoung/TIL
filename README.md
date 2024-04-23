@@ -89,6 +89,7 @@ TIL ( Today I Learned )
 
 ## SQL
 
+### SQL Cookbook
 - [데이터베이스 언어 SQL](https://jaeyoung-yu.notion.site/OnBoarding-a6bdbff3c66a455a9233c5cee2c772cd?pvs=4)
 - [레코드 검색](https://jaeyoung-yu.notion.site/Chapter-1-6eab8b2b37094096ab4b292da0a6f40c?pvs=4)
 - [쿼리 결과 정렬](https://jaeyoung-yu.notion.site/Chapter-2-a68480244240497b9176764891e9c7d8?pvs=4)
@@ -104,6 +105,12 @@ TIL ( Today I Learned )
 - [보고서 작성과 재구성](https://jaeyoung-yu.notion.site/Chapter-12-db98aff26fe54213aeea950bd03ca0e0?pvs=4)
 - [계층적 쿼리](https://jaeyoung-yu.notion.site/Chapter-13-4987028845ce46a8b4a897b6e780b4bd?pvs=4)
 - [기타 다양한 기법](https://jaeyoung-yu.notion.site/Chapter-14-3082120e3bfa4d088ed12d8aa2b69709?pvs=4)
+
+### 데이터 분석을 위한 SQL 레시피
+- [하나의 값 조작하기](https://jaeyoung-yu.notion.site/Chapter-5-ee58f7f0a9e24764ba1e1b47cc21ce0b?pvs=4)
+- [여러 개의 값에 대한 조작](https://jaeyoung-yu.notion.site/Chapter-6-40369515e7bc44eb9678ecb9da3e0e37?pvs=4)
+- [하나의 테이블에 대한 조작](https://jaeyoung-yu.notion.site/Chapter-7-8393736d534446778bf575fdfbb61407?pvs=4)
+- [여러 개의 테이블 조작하기](https://jaeyoung-yu.notion.site/Chapter-8-0db1850d30f54835ab34e0f93c5710a8?pvs=4)
 
 ## TypeScript
 
@@ -140,4 +147,5 @@ TIL ( Today I Learned )
 | Network | IT 엔지니어를 위한 네트워크 입문 | 고재성 등 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/aba8b950-4492-41ce-970b-6a195ba90b22" width="150"> |
 | Operation | 운영체제 10판 | 박민규 | 퍼스트북 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/dec34e6e-affc-4182-a6fb-48e1cf923cb3" width="150"> |
 | SQL | SQL Cookbook | 앤서니 몰리나로 등 | 한빛 미디어 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/69ba66e3-7b91-4b82-956b-c025a4aec12e" width="150"> |
+| SQL | 데이터 분석을 위한 SQL 레시피 | 가사키 나가토 등 | 한빛 미디어 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/a5128b49-8494-4198-8159-25517b91642f" width="150"> |
 | TypeScript | 쉽게 시작하는 타입스크립트 | 장기효 | 길벗 | <img src="https://github.com/Yu-Jaeyoung/TIL/assets/109587069/731b80fc-94bf-4d77-b304-3e17a42fe7d6" width="150"> |
