@@ -113,6 +113,7 @@ TIL ( Today I Learned )
 - [여러 개의 테이블 조작하기](https://jaeyoung-yu.notion.site/Chapter-8-0db1850d30f54835ab34e0f93c5710a8?pvs=4)
 - [시계열 기반으로 데이터 집계하기](https://jaeyoung-yu.notion.site/Chapter-9-b69f02921573408fbe5119b1afee933e?pvs=4)
 - [다면적인 축을 사용해 데이터 집약하기](https://jaeyoung-yu.notion.site/Chapter-10-621afdfc94dc43399d8f4799495efbda?pvs=4)
+- [사이트 전체의 특징/경향 찾기](https://jaeyoung-yu.notion.site/Chapter-14-ea8b0916da05487c9910e7040d2c4b6c?pvs=4)
 
 
 ## TypeScript
